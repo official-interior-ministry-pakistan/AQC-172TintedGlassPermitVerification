@@ -44,5 +44,3 @@
 <strong>Made:</strong>&nbsp;Toyota<br>
 <strong>Make:</strong>&nbsp;Corolla<br>
 <strong>Colour:</strong>&nbsp;Black Metallic<br>
-<br>
-
