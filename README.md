@@ -45,4 +45,4 @@
 <strong>Make:</strong>&nbsp;Corolla<br>
 <strong>Colour:</strong>&nbsp;Black Metallic<br>
 <br>
-<span style="font-size:14px;"><strong><span style="background-color: transparent; text-align: left;"><span style="
+<span style="font-size:14px;"><strong><span style="background-color: transparent; text-align: left;"
